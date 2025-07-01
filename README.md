@@ -7,7 +7,7 @@
 
 A powerful **Retrieval-Augmented Generation (RAG)** chatbot built with **Google Gemini API**, specifically designed for analyzing **research papers with 2-column layouts**. Features advanced PDF processing and intelligent document analysis optimized for academic content and scientific publications.
 
-![Demo](img/demo.jpg)
+![Demo](img/demo.png)
 
 ## ✨ Features
 
