@@ -45,7 +45,7 @@ A powerful **Retrieval-Augmented Generation (RAG)** chatbot built with **Google 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/Research-Paper-RAG-Chatbot.git
+git clone https://github.com/ndhuy05/Research-Paper-RAG-Chatbot.git
 cd Research-Paper-RAG-Chatbot
 ```
 
