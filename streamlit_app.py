@@ -31,7 +31,7 @@ if 'documents_loaded' not in st.session_state:
 class StreamlitRAGChatbot:
     def __init__(self, api_key):
         os.environ["GOOGLE_API_KEY"] = api_key
-        self.llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.7)
+        self.llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.7)
         self.embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
         self.memory = ConversationBufferMemory()
         self.vector_store = None
